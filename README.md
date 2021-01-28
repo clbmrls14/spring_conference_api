@@ -1,1 +1,1 @@
-"# spring_conference_api" 
+# Data for the database and instructions can be found [here](https://github.com/dlbunker/ps-first-spring-boot-app). I have written some clarifying instructions [here](https://www.clbmrlsportfolio.com/2021/01/connecting-your-spring-api-to-postgres.html).
